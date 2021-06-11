@@ -1,0 +1,30 @@
+.navbar-li{
+	display: inline-block;
+	margin-left: 20px;
+	color: blue;
+}
+nav{
+	display: inline-block;
+	margin-right: 20px;
+}
+a{
+	color: red;
+}
+ul,li{
+	list-style: none;
+	color: black;
+}
+h3{
+	margin-left: 40px;
+	color: blue;
+}
+.box{
+	background: lightgrey;
+	padding-bottom: 50px;
+}
+span{
+	margin-left: 10px;
+}
+iframe{
+	margin-left: 600px;
+}
